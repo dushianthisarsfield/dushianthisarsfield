@@ -1,5 +1,9 @@
 <h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+
+<h2>👨‍💻 Cyber Security Projects </h2>
+- [Active Directory Homelab](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/dushianthisarsfield/ActiveDirectoryLab2)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
