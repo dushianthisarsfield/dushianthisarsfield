@@ -26,7 +26,7 @@ Skills: Java/ Python / HTML
   - [Stop & Wait protocol for UDP](https://github.com/dushianthisarsfield/Computer-MobileNetworks-STOPandWAITforUDP)
   
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 
