@@ -13,7 +13,8 @@ Skills: Java/ Python / HTML
 - ⚡ Fun fact: I like making electronic music 😃 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dushianthisarsfield)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dushianthi-sarsfield-1678a2219//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dushianthisarsfield)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dushianthi-sarsfield-1678a2219//)  
+
 
 
 <h2>👨‍💻 Cyber Security Projects </h2>
