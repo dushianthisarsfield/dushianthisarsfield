@@ -1,8 +1,20 @@
 <h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </a></h1>
 
-<h2> Hi there 👋</h2>
+### Hi there 👋, Dushianthi Sarsfield
+#### Software Engineer  /  Cybersecurity
+Hi there 👋 I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general.
 
-<body>I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general. </body>
+Skills: Java/ Python / HTML 
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning artificial intelligence and machine learning at York University. 
+- 👯 I’m looking to collaborate on software engineering and cybersecurity projects. 
+- 📫 How to reach me: dushianthis@gmail.com 
+- ⚡ Fun fact: I like making electronic music 😃 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dushianthisarsfield)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dushianthi-sarsfield-1678a2219//)  
+
 
 <h2>👨‍💻 Cyber Security Projects </h2>
 - [Active Directory Homelab](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/dushianthisarsfield/ActiveDirectoryLab2)
