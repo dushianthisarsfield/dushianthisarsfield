@@ -2,8 +2,7 @@
 
 <h2> Hi there 👋</h2>
 
-<h2>I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general. </h2>
-
+<h3>I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general. </h3>
 
 <h2>👨‍💻 Cyber Security Projects </h2>
 - [Active Directory Homelab](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/dushianthisarsfield/ActiveDirectoryLab2)
