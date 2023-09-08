@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, </a></h1>
+<h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </a></h1>
 
 
 <h2>👨‍💻 Cyber Security Projects </h2>
