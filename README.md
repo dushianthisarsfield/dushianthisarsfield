@@ -1,5 +1,7 @@
 <h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </a></h1>
-<h2> Hi there 👋</h2>h2>
+
+<h2> Hi there 👋</h2>
+
 <h2>I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general. </h2>
 
 
