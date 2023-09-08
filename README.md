@@ -24,7 +24,8 @@ Skills: Java/ Python / HTML
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Computer and mobile networks </b>
-  - [Stop & Wait protocol for UDP](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/dushianthisarsfield/Computer-MobileNetworks-STOPandWAITforUDP)
+  - [Stop & Wait protocol for UDP](https://github.com/dushianthisarsfield/Computer-MobileNetworks-STOPandWAITforUDP)
+  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
