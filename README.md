@@ -19,7 +19,6 @@ Skills: Java/ Python / HTML
 
 
 <h2>👨‍💻 Cyber Security Projects </h2>
-- [Active Directory Homelab](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/dushianthisarsfield/ActiveDirectoryLab2)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
