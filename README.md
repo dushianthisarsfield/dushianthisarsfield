@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Dushianthi Sarsfield
 #### Graduate Cloud Operations Engineer
-Hi there 👋 I'm Dushi from London, and I am a graduate cloud operations engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general.
+Hi there 👋 I'm Dushi from London, and I am a graduate cloud operations engineer. I can also code in Java and Python. I really enjoy learning about programming languages, cloud ops, and cyber security. 
 
 Skills: Java/ Python / HTML 
 
