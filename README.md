@@ -1,8 +1,8 @@
 <h1>Hi, I'm Dushi <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a> </a></h1>
 
 ### Hi there 👋, Dushianthi Sarsfield
-#### Software Engineer  /  Cybersecurity
-Hi there 👋 I'm Dushi from London, and I am a software engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general.
+#### Graduate Cloud Operations Engineer
+Hi there 👋 I'm Dushi from London, and I am a graduate cloud operations engineer. I can code in Java and Python. I really enjoy learning about programming languages and cyber security. I also enjoy wireframing, ui, ux, and design in general.
 
 Skills: Java/ Python / HTML 
 
