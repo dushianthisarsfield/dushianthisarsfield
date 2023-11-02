@@ -9,7 +9,6 @@ Skills: Java/ Python / HTML
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning artificial intelligence and machine learning at York University. 
 - 👯 I’m looking to collaborate on software engineering and cybersecurity projects. 
-- 📫 How to reach me: dushianthis@gmail.com 
 - ⚡ Fun fact: I like making electronic music 😃 
 
 
